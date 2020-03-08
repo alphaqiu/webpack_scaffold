@@ -1,0 +1,4 @@
+# browserslistrc syntax: https://github.com/browserslist/browserslist
+iOS >= 8
+Firefox >= 20
+Android > 4.4
